@@ -23,7 +23,7 @@ Alternatively, you can also supply your username and password as command-line ar
         - `-w, --workspace` workspace ID of the report (required
         - `-f, --output` name of the file for saving the report (required)
         - `-u, --user` your Flex Insights username (optional if `FLEX_INSIGHTS_USER` environmental variable is set)
-        - `-p, --password` your Flex Insights username (optional if `FLEX_INSIGHTS_PASSWORD` environmental variable is set)
+        - `-p, --password` your Flex Insights password (optional if `FLEX_INSIGHTS_PASSWORD` environmental variable is set)
 
 
 
